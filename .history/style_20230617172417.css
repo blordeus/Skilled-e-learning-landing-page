@@ -1,0 +1,23 @@
+.gradient1 {
+    background: linear-gradient(to bottom, #F02AA6, #FF6F48);
+}
+
+.gradient2 {
+    background: linear-gradient(to bottom, #4851FF, #F02AA6);
+}
+
+.button {
+    background-color: #13183F;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  body {
+    fi
+  }
