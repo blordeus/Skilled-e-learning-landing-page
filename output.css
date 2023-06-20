@@ -872,6 +872,11 @@ video {
   background-color: rgb(131 134 154 / var(--tw-bg-opacity));
 }
 
+.bg-skilled-color6 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
 .bg-gradient-to-b {
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
@@ -900,6 +905,10 @@ video {
 
 .to-80\% {
   --tw-gradient-to-position: 80%;
+}
+
+.to-90\% {
+  --tw-gradient-to-position: 90%;
 }
 
 .p-4 {
