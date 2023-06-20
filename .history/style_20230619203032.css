@@ -30,6 +30,7 @@
     border-radius: 30px;
   }
 
+  .button-gradient1:hover, .button
 
   .button-gradient2 {
     background: linear-gradient(to bottom, #4851FF, #F02AA6);
